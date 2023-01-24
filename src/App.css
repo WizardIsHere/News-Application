@@ -1,0 +1,29 @@
+body {
+
+  @import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@400;700&display=swap');
+  font-family: 'PT Serif', serif;
+
+  background-image: url('/src/assets/background.jpg'),url('/src/assets/background1.jpg');
+  background-size: fill;
+  
+}
+.custom-shape-divider-top-1666990874 {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-top-1666990874 svg {
+    position: relative;
+    display: block;
+    width: calc(142% + 1.3px);
+    height: 176px;
+}
+
+.custom-shape-divider-top-1666990874 .shape-fill {
+    fill: #FFF;
+}

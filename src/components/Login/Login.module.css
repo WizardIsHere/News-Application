@@ -1,0 +1,55 @@
+.Auth{
+    background: #eb3349; 
+    background: -webkit-linear-gradient(
+    to right,
+    #f45c43,
+    #eb3349
+    ); 
+    background: linear-gradient(
+    to right,
+    #f45c43,
+    #eb3349 
+    ); 
+    min-height: 100vh;
+}
+.AuthContainer{
+    min-height: 80vh;
+    gap: 10rem;    
+}
+.AuthWrap{
+    max-width: 400px;
+}
+.authFormInput{
+    border: solid 1px #ccc;
+    outline: none ;
+    background-color: transparent;
+    border-radius: 8px;
+    padding: 0.5rem;
+    flex: 1;
+}
+.infoButton{
+    width: 6rem;
+    height: 3rem;
+    border: none;
+    background-color: #eb3349;
+}
+.infoButton:hover{
+    cursor: pointer;
+    color: whitesmoke;
+    background: #eb3348e3;
+    border: 2px solid #ccc;
+  }
+.infoButton:disabled{
+    background: silver;
+    pointer-events: none;
+}
+.authButtons{
+    height: 3rem;
+    border-radius: 50%;
+    background-color: transparent;
+    border: 1px solid #ccc;
+}
+.authButtons:hover{
+    cursor: pointer;
+    background-color: transparent;
+}

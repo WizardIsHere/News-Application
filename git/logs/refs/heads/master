@@ -1,0 +1,19 @@
+0000000000000000000000000000000000000000 e763a77afe3c5bd02109b0fbaf42644d1c3cf470 WizardIsHere <mshushant235@gmail.com> 1666979895 +0530	commit (initial): Initialize project using Create React App
+e763a77afe3c5bd02109b0fbaf42644d1c3cf470 aa787dc476269602bc7f636a9f7d583bde8b915c WizardIsHere <mshushant235@gmail.com> 1666982158 +0530	commit: Firebase setup
+aa787dc476269602bc7f636a9f7d583bde8b915c 27a7eaacf1634850cbf7474431218d186c823028 WizardIsHere <mshushant235@gmail.com> 1666996190 +0530	commit: Authentication page
+27a7eaacf1634850cbf7474431218d186c823028 506a6786bd264790e2ee293e0a43e788eb9b8704 WizardIsHere <mshushant235@gmail.com> 1666996259 +0530	commit: Authentication Page added
+506a6786bd264790e2ee293e0a43e788eb9b8704 32f1c551bbade76f759420a174dad238464e7be3 WizardIsHere <mshushant235@gmail.com> 1667048856 +0530	commit: SignUp and Login Auth feature added + Router
+32f1c551bbade76f759420a174dad238464e7be3 7fc9d741bc79512f41d27f089151ba982de8bbe4 WizardIsHere <mshushant235@gmail.com> 1667050672 +0530	commit: ✅ sampleData from NewsAPI added.
+7fc9d741bc79512f41d27f089151ba982de8bbe4 c08546eb34e1e210f97e3e38d0289757590d21ea WizardIsHere <mshushant235@gmail.com> 1667077884 +0530	commit: Navbar,Hero,news Categories with signOut added.
+c08546eb34e1e210f97e3e38d0289757590d21ea 55af7130d7044ab03e80d5fe0b2f18fe13f5b2b4 WizardIsHere <mshushant235@gmail.com> 1667077920 +0530	commit: Navbar,Hero and signOut feature added
+55af7130d7044ab03e80d5fe0b2f18fe13f5b2b4 52bd46a31ba88b515248d85e1bf61559bbe5dd92 WizardIsHere <mshushant235@gmail.com> 1667082649 +0530	commit: ✨ Fetching news and Footer added.
+52bd46a31ba88b515248d85e1bf61559bbe5dd92 d8bd3d59e3c08193d552ea716119803cf8b101b3 WizardIsHere <mshushant235@gmail.com> 1667083556 +0530	commit: ✅ Navbar Bugs Solved.
+d8bd3d59e3c08193d552ea716119803cf8b101b3 a95456c2da652f942de2646f57bf0f6bd57ee8a4 WizardIsHere <mshushant235@gmail.com> 1667083887 +0530	commit: ✅ Navbar Bugs Solved.
+a95456c2da652f942de2646f57bf0f6bd57ee8a4 79e5131d18f300796c557e9bcbe4d459481ca5bb WizardIsHere <mshushant235@gmail.com> 1667087557 +0530	commit: ✨ Google authentication & ProtectedRoute Feature.
+79e5131d18f300796c557e9bcbe4d459481ca5bb 8bf179659a54dbfc5394abac863e31657fb7a15f WizardIsHere <mshushant235@gmail.com> 1667088433 +0530	commit: Github Auth Added
+8bf179659a54dbfc5394abac863e31657fb7a15f 1d7fcd3c90d526f81ef700eeb014d29e5b7d7ef4 WizardIsHere <mshushant235@gmail.com> 1667088685 +0530	commit: 🔒️ Github Auth in SignUp Page
+1d7fcd3c90d526f81ef700eeb014d29e5b7d7ef4 aead92867927b55384fcc1d7e9e6794c2b11d516 WizardIsHere <mshushant235@gmail.com> 1667088757 +0530	commit: 🔒️ Github Auth in SignUp Pg(passRefErrorFixed)
+aead92867927b55384fcc1d7e9e6794c2b11d516 395bdb1f0e0f93ee2f5fca6265cc89d2c7f11221 WizardIsHere <mshushant235@gmail.com> 1667129970 +0530	commit: 💄 Carousel added->Hero with Backgrounds in AuthPg
+395bdb1f0e0f93ee2f5fca6265cc89d2c7f11221 5598e90a2d4b8375c7c7ab469d4f7a9361a1f580 WizardIsHere <mshushant235@gmail.com> 1667129975 +0530	commit: 💄 Carousel added->Hero with Backgrounds in AuthPg
+5598e90a2d4b8375c7c7ab469d4f7a9361a1f580 318414afcd3741a771ec645ae4ae2d5dab677495 WizardIsHere <mshushant235@gmail.com> 1667132184 +0530	commit: 💄 Styling
+318414afcd3741a771ec645ae4ae2d5dab677495 dc54f01d725310e2f60cbda7847a59be1e5095f7 WizardIsHere <mshushant235@gmail.com> 1667132974 +0530	commit: ✅ Navbar Sticky

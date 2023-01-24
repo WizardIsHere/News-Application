@@ -1,0 +1,22 @@
+.Auth{
+    background: #eb3349; 
+    background: -webkit-linear-gradient(
+    to right,
+    #f45c43,
+    #eb3349
+    ); 
+    background: linear-gradient(
+    to right,
+    #f45c43,
+    #eb3349 
+    ); 
+    min-height: 100vh;
+
+}
+
+.AuthContainer{
+    min-height: 80vh;
+    gap: 10rem;
+    
+
+}
